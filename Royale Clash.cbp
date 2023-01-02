@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Royale Clash" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Royale Clash" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Royale Clash" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="carte.cpp" />
+		<Unit filename="carte.h" />
+		<Unit filename="cimetiere.cpp" />
+		<Unit filename="cimetiere.h" />
+		<Unit filename="collection.cpp" />
+		<Unit filename="collection.h" />
+		<Unit filename="creature.cpp" />
+		<Unit filename="creature.h" />
+		<Unit filename="deck.cpp" />
+		<Unit filename="deck.h" />
+		<Unit filename="energie.cpp" />
+		<Unit filename="energie.h" />
+		<Unit filename="enjeu.cpp" />
+		<Unit filename="enjeu.h" />
+		<Unit filename="joueur.cpp" />
+		<Unit filename="joueur.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="partie.cpp" />
+		<Unit filename="partie.h" />
+		<Unit filename="pioche.cpp" />
+		<Unit filename="pioche.h" />
+		<Unit filename="speciale.cpp" />
+		<Unit filename="speciale.h" />
+		<Unit filename="zonedejeu.cpp" />
+		<Unit filename="zonedejeu.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

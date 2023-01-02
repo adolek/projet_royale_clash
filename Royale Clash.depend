@@ -1,0 +1,156 @@
+# depslib dependency file v1.0
+1606526046 source:d:\adrien oleksiak\documents\etudes sup\ece 2020-2021\informatique\royale clash projet - last version\projet\carte.cpp
+	<iostream>
+	"carte.h"
+
+1607195612 d:\adrien oleksiak\documents\etudes sup\ece 2020-2021\informatique\royale clash projet - last version\projet\carte.h
+	<iostream>
+	<string>
+
+1607270307 source:d:\adrien oleksiak\documents\etudes sup\ece 2020-2021\informatique\royale clash projet - last version\projet\cimetiere.cpp
+	<iostream>
+	"cimetiere.h"
+
+1606357760 d:\adrien oleksiak\documents\etudes sup\ece 2020-2021\informatique\royale clash projet - last version\projet\cimetiere.h
+	<iostream>
+	<vector>
+	<string>
+	"carte.h"
+	"creature.h"
+	"energie.h"
+	"speciale.h"
+
+1607226952 d:\adrien oleksiak\documents\etudes sup\ece 2020-2021\informatique\royale clash projet - last version\projet\creature.h
+	<iostream>
+	"carte.h"
+
+1607209675 d:\adrien oleksiak\documents\etudes sup\ece 2020-2021\informatique\royale clash projet - last version\projet\energie.h
+	<iostream>
+	"carte.h"
+
+1607271328 d:\adrien oleksiak\documents\etudes sup\ece 2020-2021\informatique\royale clash projet - last version\projet\speciale.h
+	<iostream>
+	"carte.h"
+
+1607270307 source:d:\adrien oleksiak\documents\etudes sup\ece 2020-2021\informatique\royale clash projet - last version\projet\collection.cpp
+	<iostream>
+	"collection.h"
+
+1607270313 d:\adrien oleksiak\documents\etudes sup\ece 2020-2021\informatique\royale clash projet - last version\projet\collection.h
+	<iostream>
+	<vector>
+	<string>
+	<fstream>
+	<sstream>
+	"carte.h"
+	"creature.h"
+	"energie.h"
+	"speciale.h"
+
+1607195612 source:d:\adrien oleksiak\documents\etudes sup\ece 2020-2021\informatique\royale clash projet - last version\projet\creature.cpp
+	<iostream>
+	"creature.h"
+
+1607270307 source:d:\adrien oleksiak\documents\etudes sup\ece 2020-2021\informatique\royale clash projet - last version\projet\deck.cpp
+	<iostream>
+	"deck.h"
+
+1606430698 d:\adrien oleksiak\documents\etudes sup\ece 2020-2021\informatique\royale clash projet - last version\projet\deck.h
+	<iostream>
+	<algorithm>
+	<random>
+	<vector>
+	<string>
+	<fstream>
+	<sstream>
+	"carte.h"
+	"creature.h"
+	"energie.h"
+	"speciale.h"
+
+1607209675 source:d:\adrien oleksiak\documents\etudes sup\ece 2020-2021\informatique\royale clash projet - last version\projet\energie.cpp
+	<iostream>
+	"energie.h"
+
+1607270307 source:d:\adrien oleksiak\documents\etudes sup\ece 2020-2021\informatique\royale clash projet - last version\projet\enjeu.cpp
+	<iostream>
+	"enjeu.h"
+
+1607196070 d:\adrien oleksiak\documents\etudes sup\ece 2020-2021\informatique\royale clash projet - last version\projet\enjeu.h
+	<iostream>
+	<vector>
+	<string>
+	"carte.h"
+	"creature.h"
+	"energie.h"
+	"speciale.h"
+
+1607289473 source:d:\adrien oleksiak\documents\etudes sup\ece 2020-2021\informatique\royale clash projet - last version\projet\joueur.cpp
+	<iostream>
+	"joueur.h"
+
+1607293787 d:\adrien oleksiak\documents\etudes sup\ece 2020-2021\informatique\royale clash projet - last version\projet\joueur.h
+	<iostream>
+	<string>
+	<fstream>
+	<sstream>
+	"deck.h"
+	"collection.h"
+	"enjeu.h"
+	"cimetiere.h"
+	"pioche.h"
+	"zonedejeu.h"
+
+1607195612 d:\adrien oleksiak\documents\etudes sup\ece 2020-2021\informatique\royale clash projet - last version\projet\pioche.h
+	<iostream>
+	<deque>
+	<string>
+	"carte.h"
+	"creature.h"
+	"energie.h"
+	"speciale.h"
+
+1607267184 d:\adrien oleksiak\documents\etudes sup\ece 2020-2021\informatique\royale clash projet - last version\projet\zonedejeu.h
+	<iostream>
+	<vector>
+	<string>
+	"carte.h"
+	"creature.h"
+	"energie.h"
+	"speciale.h"
+
+1607270307 source:d:\adrien oleksiak\documents\etudes sup\ece 2020-2021\informatique\royale clash projet - last version\projet\main.cpp
+	<iostream>
+	<string>
+	"partie.h"
+	"joueur.h"
+	"creature.h"
+	"speciale.h"
+	"energie.h"
+
+1606359226 d:\adrien oleksiak\documents\etudes sup\ece 2020-2021\informatique\royale clash projet - last version\projet\partie.h
+	<iostream>
+	<vector>
+	<string>
+	"joueur.h"
+	"carte.h"
+	"deck.h"
+
+1607289511 source:d:\adrien oleksiak\documents\etudes sup\ece 2020-2021\informatique\royale clash projet - last version\projet\partie.cpp
+	<iostream>
+	<vector>
+	<string>
+	"partie.h"
+
+1607270307 source:d:\adrien oleksiak\documents\etudes sup\ece 2020-2021\informatique\royale clash projet - last version\projet\pioche.cpp
+	<iostream>
+	"pioche.h"
+
+1607271328 source:d:\adrien oleksiak\documents\etudes sup\ece 2020-2021\informatique\royale clash projet - last version\projet\speciale.cpp
+	<iostream>
+	"speciale.h"
+
+1607286497 source:d:\adrien oleksiak\documents\etudes sup\ece 2020-2021\informatique\royale clash projet - last version\projet\zonedejeu.cpp
+	<iostream>
+	"zonedejeu.h"
+
